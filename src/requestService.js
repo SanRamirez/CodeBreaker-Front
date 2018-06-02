@@ -13,6 +13,7 @@ const options =  {
   mode: 'no-cors'
 }*/
 
+
 class RequestService {
     // async function
     async getRequest(number){
